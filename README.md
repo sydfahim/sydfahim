@@ -1,7 +1,5 @@
 👋 Hey, I'm Sayed Fahim
 
-### 🎨 Designer × Developer
-
 I design, code and build the digital experiences that bring them to life.
 
 **🌐 [View My Portfolio →](https://sydfahim-portfolio.netlify.app/)**
