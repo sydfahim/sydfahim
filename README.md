@@ -1,5 +1,5 @@
 # 💫 About Me:
-I design brands and build the digital experiences that bring them to life.
+I design, code and build the digital experiences that bring them to life.
 
  
 
