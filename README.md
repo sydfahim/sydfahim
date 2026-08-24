@@ -1,5 +1,27 @@
 # 💫 About Me:
-🔭 I’m currently working on Branding<br>👯 I’m looking to collaborate on UI/UX projects, Feontend dev<br>🤝 I’m looking for help with stronger frontend developer and turning my design skills into more polished, production-ready<br>🌱 I’m currently learning Advanced React, frontend architecture, design systems, and better ways to bridge Figma and real-world development.<br>💬 UI/UX design, branding, Figma, frontend development, creative direction, or turning an idea into an actual digital product.<br>⚡ Fun fact I started as a designer, but I got tired of handing designs to developers… so I started learning to build them myself.
+I design brands and build the digital experiences that bring them to life.
+
+ 
+
+Honestly? Most of the time the gap between what a brand says it is and how it actually feels is huge. I'm that person who cares about fixing that. Whether it's the logo, the website, the whole vibe — it all gotta make sense together.
+
+ 
+
+I'm a designer who can code, which means I don't just throw designs over the wall to engineers and hope for the best. I actually build stuff. I use Figma, HTML, CSS, React — whatever it takes to make it real.
+
+ 
+
+What I do:
+
+ 
+
+Brand identity that actually sticks (visual language, positioning, the whole system)
+
+UI/UX design that makes sense
+
+Frontend dev (turning designs into code that works)
+
+Figuring out what people actually need before jumping to solutions
 
 
 ## 🌐 Socials:
