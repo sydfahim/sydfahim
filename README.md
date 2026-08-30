@@ -19,16 +19,18 @@
 
 ### About
 
-I started as a graphic designer, freelancing through college — that's where I learned design is communication, not decoration. Studying computer science alongside it, I never wanted to pick a side between how something looks and how it's built.
+I design, code and build the digital experiences that bring them to life.
 
-UI/UX became the bridge. I design across interfaces, brands, and digital experiences, and I build the ones that need to ship — Figma through to production code, no handoff gap in between.
+Honestly? Most of the time the gap between what a brand says it is and how it actually feels is huge. I'm the person who cares about fixing that. Whether it's the logo, the website, or the whole vibe — it all gotta make sense together.
 
-**What I do:**
+I'm a designer who can code, which means I don't just throw designs over the wall to engineers and hope for the best. I actually build stuff — Figma, HTML, CSS, React, whatever it takes to make it real.
 
-- Brand identity — visual language, positioning, systems that scale
-- UI/UX design — interfaces built on clear thinking, not decoration
-- Frontend development — designs that ship as working code, not just comps
-- Discovery — understanding the actual problem before reaching for a solution
+**What I do:
+
+- UI/UX design that makes sense
+- Frontend dev — turning designs into code that work
+- Brand identity that actually sticks — visual language, positioning, the whole system
+- Figuring out what people actually need before jumping to solutions
 
 <br/>
 
