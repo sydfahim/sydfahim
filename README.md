@@ -9,7 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/portfolio-sydfahim.com-d71920?style=for-the-badge&labelColor=050505)](https://sydfahim.com)
 [![Behance](https://img.shields.io/badge/behance-d71920?style=for-the-badge&logo=behance&logoColor=white&labelColor=050505)](https://www.behance.net/sayedfahim)
 [![LinkedIn](https://img.shields.io/badge/linkedin-d71920?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050505)](https://www.linkedin.com/in/sydfahim/)
-[![Email](https://img.shields.io/badge/hello%40sydfahim.com-d71920?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=050505)](mailto:hello@sydfahim.com)
+[![Email](https://img.shields.io/badge/hello%40sydfahim.com-d71920?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=050505)](mailto:sydmhdfahim@gmail.com)
 
 </div>
 
