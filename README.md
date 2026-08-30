@@ -19,9 +19,9 @@
 
 ### About
 
-The gap between what a brand says it is and how it actually feels is where most work falls apart. I close that gap — logo, interface, and everything in between, built to hold together as one system.
+I started as a graphic designer, freelancing through college — that's where I learned design is communication, not decoration. Studying computer science alongside it, I never wanted to pick a side between how something looks and how it's built.
 
-I design and I build. Concepts don't stop at the handoff — Figma, HTML, CSS, JS, React, whatever it takes to get the idea into the browser intact.
+UI/UX became the bridge. I design across interfaces, brands, and digital experiences, and I build the ones that need to ship — Figma through to production code, no handoff gap in between.
 
 **What I do:**
 
@@ -35,8 +35,6 @@ I design and I build. Concepts don't stop at the handoff — Figma, HTML, CSS, J
 ---
 
 ### Tech Stack
-
-<div align="center">
 
 **Core**
 
@@ -74,8 +72,6 @@ I design and I build. Concepts don't stop at the handoff — Figma, HTML, CSS, J
 ![Notion](https://img.shields.io/badge/notion-d71920?style=for-the-badge&logo=notion&logoColor=white&labelColor=050505)
 ![Prettier](https://img.shields.io/badge/prettier-d71920?style=for-the-badge&logo=prettier&logoColor=white&labelColor=050505)
 ![Meta](https://img.shields.io/badge/meta-d71920?style=for-the-badge&logo=meta&logoColor=white&labelColor=050505)
-
-</div>
 
 <br/>
 
