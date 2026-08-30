@@ -6,11 +6,7 @@
 
 *Inspire. Create. Transform.*
 
-[![Portfolio](https://img.shields.io/badge/portfolio-sydfahim.com-d71920?style=for-the-badge&labelColor=050505)](https://sydfahim.com)
-[![Behance](https://img.shields.io/badge/behance-d71920?style=for-the-badge&logo=behance&logoColor=white&labelColor=050505)](https://www.behance.net/sayedfahim)
-[![LinkedIn](https://img.shields.io/badge/linkedin-d71920?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050505)](https://www.linkedin.com/in/sydfahim/)
-[![Email](https://img.shields.io/badge/hello%40sydfahim.com-d71920?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=050505)](mailto:sydmhdfahim@gmail.com)
-
+[
 </div>
 
 <br/>
@@ -83,6 +79,9 @@ I'm a designer who can code, which means I don't just throw designs over the wal
 
 **Design it. Build it. Make it feel right.**
 
-[Portfolio](https://sydfahim.com) · [LinkedIn](https://www.linkedin.com/in/sydfahim/) · [Behance](https://www.behance.net/sayedfahim)
+![Portfolio](https://img.shields.io/badge/portfolio-sydfahim.com-d71920?style=for-the-badge&labelColor=050505)](https://sydfahim.com)
+[![Behance](https://img.shields.io/badge/behance-d71920?style=for-the-badge&logo=behance&logoColor=white&labelColor=050505)](https://www.behance.net/sayedfahim)
+[![LinkedIn](https://img.shields.io/badge/linkedin-d71920?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050505)](https://www.linkedin.com/in/sydfahim/)
+[![Email](https://img.shields.io/badge/sydmhdfahim%gmail.com-d71920?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=050505)](mailto:sydmhdfahim@gmail.com)
 
 </div>
