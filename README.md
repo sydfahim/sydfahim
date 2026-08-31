@@ -20,7 +20,7 @@ Honestly? Most of the time the gap between what a brand says it is and how it ac
 
 I'm a designer who can code, which means I don't just throw designs over the wall to engineers and hope for the best. I actually build stuff — Figma, HTML, CSS, React, whatever it takes to make it real.
 
-**What I do:
+*What I do:
 
 - UI/UX design that makes sense
 - Frontend dev — turning designs into code that work
