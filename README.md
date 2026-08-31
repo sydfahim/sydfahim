@@ -1,4 +1,5 @@
 <div align="center">
+<img src="Assets/Logo/SydLogoWhite.png" alt="Syd Fahim" width="64" />
 
 # I'm Sayed Fahim
 
