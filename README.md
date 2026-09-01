@@ -5,7 +5,7 @@
 
 **UI/UX Designer & Brand Strategist**
 
-*Inspire. Create. Transform*
+*Inspire. Create. Transform.*
 
 </div>
 
